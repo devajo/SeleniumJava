@@ -1,3 +1,3 @@
 # SeleniumJava
 
-## This repe will contain selenium-java web automation projects
+## This repo will contain selenium-java web automation projects
